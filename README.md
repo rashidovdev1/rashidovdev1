@@ -8,4 +8,4 @@
 ### 💻 Programming Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight)
 
-- 📫 How to reach me: <a href="https://t.me/pyth6n">Send me message with Telegram </a> 
+- 📫 How to reach me: <a href="https://t.me/tezzro">Send me message with Telegram </a> 
