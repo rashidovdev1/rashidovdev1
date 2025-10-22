@@ -6,26 +6,21 @@
 
 ---
 
-<div align="center" style="background-color:#0D1117; color:#C9D1D9; padding:20px; border-radius:10px;">
-  
-<h3>🚀 About Me</h3>
-💻 Passionate about <b>backend development</b> and building scalable systems  
-🧠 Currently learning <b>Artificial Intelligence</b> and <b>Machine Learning</b>  
-⚙️ Love working with <b>APIs</b>, <b>automation</b>, and <b>bots</b>  
-🎯 Goal: To become a <b>strong Python Backend Developer</b>  
-</div>
+### 🚀 About Me
+- 💻 Passionate about **backend development** and building scalable systems  
+- 🧠 Currently learning **Artificial Intelligence** and **Machine Learning**  
+- ⚙️ Love working with **APIs**, **automation**, and **bots**  
+- 🎯 Goal: To become a **strong Python Backend Developer**
 
-<div style="background: linear-gradient(90deg, #0D1117, #1E3A8A); color:white; padding:20px; border-radius:12px;">
-<h3>🧩 Tech Stack</h3>
+---
 
-<b>Languages:</b> Python, SQL, JavaScript  
-<b>Frameworks:</b> Django, Flask, Aiogram  
-<b>Tools:</b> Git, GitHub, VS Code, Postman  
-<b>Databases:</b> PostgreSQL, SQLite  
-</div>
+### 🧩 Tech Stack
+**Languages:** Python, SQL, JavaScript  
+**Frameworks:** Django, Flask, Aiogram  
+**Tools:** Git, GitHub, VS Code, Postman  
+**Databases:** PostgreSQL, SQLite  
 
-
-### 📊 GitHub Stats
+---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rashidovdev1&show_icons=true&theme=tokyonight&card_width=800" alt="GitHub stats"/>
