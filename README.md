@@ -32,6 +32,8 @@
 
 ---
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashidovdev1&theme=tokyonight&card_width=800)
+
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://t.me/tezzro">
