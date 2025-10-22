@@ -5,14 +5,14 @@
   
 ![Rashidov's GitHub stats](https://github-readme-stats.vercel.app/api?username=rashidovdev1&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight&card_width=500)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight&card_width=600&langs_count=10)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=donut&theme=gruvbox)
 
-![Metrics](https://raw.githubusercontent.com/rashidovdev1/rashidovdev1/main/github-metrics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight&card_width=500)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight&card_width=600&langs_count=10)
 
 - 📫 How to reach me: <a href="https://t.me/tezzro">Send me message with Telegram </a> 
