@@ -6,19 +6,29 @@
 
 ---
 
-### 🚀 About Me
-- 💻 Passionate about **backend development** and building scalable systems  
-- 🧠 Currently learning **Artificial Intelligence** and **Machine Learning**  
-- ⚙️ Love working with **APIs**, **automation**, and **bots**  
-- 🎯 Goal: To become a **strong Python Backend Developer**
+<div style="background: linear-gradient(90deg, #0D1117, #1E3A8A); color: #C9D1D9; padding: 20px; border-radius: 10px;">
+
+<h3>🚀 About Me</h3>
+
+- 💻 Passionate about <b>backend development</b> and building scalable systems  
+- 🧠 Currently learning <b>Artificial Intelligence</b> and <b>Machine Learning</b>  
+- ⚙️ Love working with <b>APIs</b>, <b>automation</b>, and <b>bots</b>  
+- 🎯 Goal: To become a <b>strong Python Backend Developer</b>  
+
+</div>
 
 ---
 
-### 🧩 Tech Stack
-**Languages:** Python, SQL, JavaScript  
-**Frameworks:** Django, Flask, Aiogram  
-**Tools:** Git, GitHub, VS Code, Postman  
-**Databases:** PostgreSQL, SQLite  
+<div style="background: linear-gradient(90deg, #0D1117, #1E3A8A); color: #C9D1D9; padding: 20px; border-radius: 10px;">
+
+<h3>🧩 Tech Stack</h3>
+
+<b>Languages:</b> Python, SQL, JavaScript  
+<b>Frameworks:</b> Django, Flask, Aiogram  
+<b>Tools:</b> Git, GitHub, VS Code, Postman  
+<b>Databases:</b> PostgreSQL, SQLite  
+
+</div>
 
 ---
 
