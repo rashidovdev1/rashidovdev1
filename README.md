@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight&card_width=500)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight&card_width=600&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight&card_width=600&langs_count=6)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight)
 
