@@ -30,9 +30,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight&card_width=800&langs_count=6" alt="Top Languages"/>
 </p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidovdev1&theme=tokyonight&card_width=800" alt="GitHub Streak"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashidovdev1&theme=tokyonight&card_width=800)
+---
 
 ### 📫 Connect with Me
 <p align="center">
