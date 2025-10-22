@@ -11,6 +11,4 @@
 
 ![Metrics](https://raw.githubusercontent.com/rashidovdev1/rashidovdev1/main/github-metrics.svg)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=rashidovdev1&theme=tokyonight)
-
 - 📫 How to reach me: <a href="https://t.me/tezzro">Send me message with Telegram </a> 
