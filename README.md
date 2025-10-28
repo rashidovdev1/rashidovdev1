@@ -12,22 +12,24 @@
 - ⚙️ Love working with **APIs**, **automation**, and **bots**  
 - 🎯 Goal: To become a **strong Python Backend Developer**
 ---
+
 ### 🧩 Tech Stack
 **Languages:** Python, SQL, JavaScript  
 **Frameworks:** Django, Flask, Aiogram  
 **Tools:** Git, GitHub, VS Code, Postman  
-**Databases:** PostgreSQL, SQLite  
+**Databases:** PostgreSQL, SQLite
+
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rashidovdev1&show_icons=true&theme=tokyonight&card_width=800" alt="GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight&card_width=800&langs_count=8" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rashidovdev1&layout=compact&theme=tokyonight&card_width=800&langs_count=6" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidovdev1&theme=tokyonight&card_width=800" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidovdev1&theme=tokyonight&card_width=800" alt=" GitHub Streak "/>
 </p>
 
 ---
