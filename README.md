@@ -29,8 +29,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rashidovdev1&theme=tokyonight&card_width=800" alt=" GitHub Streak "/>
+  <img src="https://streak-stats.demolab.com?user=rashidovdev1&theme=tokyonight&card_width=800" alt="GitHub Streak"/>
 </p>
+
 
 ---
 
