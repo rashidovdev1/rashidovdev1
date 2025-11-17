@@ -5,7 +5,6 @@
 </p>
 
 ---
-
 ### 🚀 About Me
 - 💻 Passionate about **backend development** and building scalable systems  
 - 🧠 Currently learning **Artificial Intelligence** and **Machine Learning**  
