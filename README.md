@@ -1,4 +1,4 @@
-<h2 align="center">Hi there, I'm Ro'zibek 👋</h2>
+<h2 align="center">Hi there, I'm Ruzibek 👋</h2>
 
 <p align="center">
   <b>🐍 Python Developer | 🤖 Telegram Bot Creator | 🌱 AI & ML Enthusiast</b>
