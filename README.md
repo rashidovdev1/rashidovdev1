@@ -17,7 +17,6 @@
 **Frameworks:** Django, Flask, Aiogram  
 **Tools:** Git, GitHub, VS Code, Postman  
 **Databases:** PostgreSQL, SQLite
-
 ---
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rashidovdev1&show_icons=true&theme=tokyonight&card_width=800" alt="GitHub stats"/>
